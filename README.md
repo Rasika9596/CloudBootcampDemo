@@ -1,1 +1,1 @@
-This is cloud bootcamp demo - intenal service
+This is cloud bootcamp demo - internal service
